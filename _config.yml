@@ -1,0 +1,28 @@
+name: All Things Pete Riley
+favicon: null
+layout_spectrum: 0.29053278849460185
+typography_spectrum: 0.0847328887321055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.38987058820202947
+  lightness: 0.9730657497420907
+  saturation: 0.7057716008275747
+  rhythmicContrast: 0.7109676129184663
+purpose: []
